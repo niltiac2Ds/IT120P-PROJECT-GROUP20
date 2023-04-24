@@ -1,0 +1,190 @@
+:host { 
+  display: contents; 
+}
+.welcome-login-page-container {
+  min-height: 100vh;
+}
+.welcome-login-page-welcome-login-page {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 0.10000000149011612);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  background-color: rgba(138, 173, 160, 1);
+}
+.welcome-login-page-container1 {
+  top: 0px;
+  left: 963px;
+  width: 957px;
+  height: 1080px;
+  position: absolute;
+  border-color: transparent;
+}
+.welcome-login-page-login-bars {
+  top: 417px;
+  left: 1165px;
+  width: 583px;
+  height: 245px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.welcome-login-page-text {
+  color: rgba(138, 173, 160, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.welcome-login-page-password {
+  top: 185px;
+  left: 0px;
+  width: 576px;
+  height: 60px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(138, 173, 160, 0.30000001192092896);
+  border-style: solid;
+  border-width: 1px;
+}
+.welcome-login-page-text02 {
+  top: 147px;
+  color: rgba(138, 173, 160, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.welcome-login-page-text04 {
+  top: 146px;
+  left: 383px;
+  color: rgba(191, 210, 208, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: italic;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.welcome-login-page-username {
+  top: 38px;
+  left: 0px;
+  width: 576px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(138, 173, 160, 0.30000001192092896);
+  border-style: solid;
+  border-width: 1px;
+}
+.welcome-login-page-login-button {
+  top: 711px;
+  left: 963px;
+  width: 957px;
+  height: 256px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.welcome-login-page-login-button1 {
+  top: 212.1481475830078px;
+  left: 191px;
+  width: 576px;
+  height: 60px;
+  position: absolute;
+  border-color: transparent;
+}
+.welcome-login-page-text06 {
+  top: 235px;
+  left: 375px;
+  color: rgba(240, 242, 240, 1);
+  width: 208px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.welcome-login-page-text08 {
+  top: 297px;
+  left: 1165px;
+  color: rgba(51, 51, 51, 1);
+  width: 258px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.welcome-login-page-text10 {
+  top: 479px;
+  left: 91px;
+  color: rgba(240, 242, 240, 1);
+  width: 616px;
+  height: auto;
+  position: absolute;
+  font-size: 128px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

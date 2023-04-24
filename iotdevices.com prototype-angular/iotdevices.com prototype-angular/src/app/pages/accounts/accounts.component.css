@@ -1,0 +1,290 @@
+:host { 
+  display: contents; 
+}
+.accounts-container {
+  min-height: 100vh;
+}
+.accounts-accounts {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 0.10000000149011612);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  background-color: rgba(138, 173, 160, 1);
+}
+.accounts-account-management {
+  top: 402px;
+  left: 762px;
+  width: 400px;
+  height: 276px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.accounts-delete-accs {
+  top: 216px;
+  left: 0px;
+  width: 400px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.accounts-delete-log-statuses {
+  top: 0px;
+  left: 0px;
+  width: 400px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.accounts-button {
+  top: 0px;
+  left: 0px;
+  width: 400px;
+  height: 60px;
+  position: absolute;
+  border-color: transparent;
+}
+.accounts-text {
+  left: 73px;
+  color: rgba(240, 242, 240, 1);
+  width: 256px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.accounts-editing-acc-details {
+  top: 108px;
+  left: 0px;
+  width: 400px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.accounts-view-log-statuses {
+  top: 0px;
+  left: 0px;
+  width: 400px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.accounts-button1 {
+  top: 0px;
+  left: 0px;
+  width: 400px;
+  height: 60px;
+  position: absolute;
+  border-color: transparent;
+}
+.accounts-text02 {
+  left: 62px;
+  color: rgba(240, 242, 240, 1);
+  width: 275px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.accounts-adding-new-acc {
+  top: 0px;
+  left: 0px;
+  width: 400px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.accounts-button2 {
+  top: 0px;
+  left: 0px;
+  width: 400px;
+  height: 60px;
+  position: absolute;
+  border-color: transparent;
+}
+.accounts-text04 {
+  left: 57px;
+  color: rgba(240, 242, 240, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.accounts-text06 {
+  top: 179px;
+  left: 64px;
+  color: rgba(240, 242, 240, 1);
+  width: 1008px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.accounts-menu {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 120px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.accounts-rectangle2 {
+  top: 960px;
+  left: 0px;
+  width: 1920px;
+  height: 120px;
+  position: absolute;
+}
+.accounts-menu1 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 120px;
+  position: absolute;
+  border-color: transparent;
+}
+.accounts-text08 {
+  top: 29px;
+  left: 140px;
+  color: rgba(51, 51, 51, 1);
+  width: 169px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.accounts-text10 {
+  top: 29px;
+  left: 1751px;
+  color: rgba(51, 51, 51, 1);
+  width: 169px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.accounts-hamburgermenu {
+  top: 44px;
+  left: 51px;
+  width: 50px;
+  height: 36px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.accounts-line5 {
+  top: 36px;
+  left: 0px;
+  width: 50px;
+  height: 0px;
+  position: absolute;
+}
+.accounts-line4 {
+  top: 16px;
+  left: 0px;
+  width: 50px;
+  height: 0px;
+  position: absolute;
+}
+.accounts-line3 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 0px;
+  position: absolute;
+}

@@ -1,0 +1,389 @@
+:host { 
+  display: contents; 
+}
+.editing-accounts-container {
+  min-height: 100vh;
+}
+.editing-accounts-editing-accounts {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 0.10000000149011612);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  background-color: rgba(138, 173, 160, 1);
+}
+.editing-accounts-user3 {
+  top: 303px;
+  left: 1257px;
+  width: 400px;
+  height: 400px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.editing-accounts-editbutton {
+  top: 437px;
+  left: 0px;
+  width: 400px;
+  height: 60px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(51, 51, 51, 0.6000000238418579);
+}
+.editing-accounts-text {
+  top: 14px;
+  left: 77px;
+  color: rgba(255, 255, 255, 1);
+  width: 247px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.editing-accounts-userbg3 {
+  top: 0px;
+  left: 0px;
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  border-color: transparent;
+}
+.editing-accounts-user31 {
+  top: 24px;
+  left: 17px;
+  width: 367px;
+  height: 353px;
+  position: absolute;
+  border-color: transparent;
+}
+.editing-accounts-text02 {
+  top: -68px;
+  left: 29px;
+  color: rgba(255, 255, 255, 1);
+  width: 344px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.editing-accounts-user2 {
+  top: 303px;
+  left: 760px;
+  width: 400px;
+  height: 400px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.editing-accounts-editbutton1 {
+  top: 437px;
+  left: 0px;
+  width: 400px;
+  height: 60px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(51, 51, 51, 0.6000000238418579);
+}
+.editing-accounts-text04 {
+  top: 14px;
+  left: 77px;
+  color: rgba(255, 255, 255, 1);
+  width: 247px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.editing-accounts-userbg2 {
+  top: 0px;
+  left: 0px;
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  border-color: transparent;
+}
+.editing-accounts-user21 {
+  top: 24px;
+  left: 17px;
+  width: 367px;
+  height: 353px;
+  position: absolute;
+  border-color: transparent;
+}
+.editing-accounts-text06 {
+  top: -59px;
+  left: 29px;
+  color: rgba(255, 255, 255, 1);
+  width: 344px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.editing-accounts-user1 {
+  top: 303px;
+  left: 263px;
+  width: 400px;
+  height: 400px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.editing-accounts-editbutton2 {
+  top: 437px;
+  left: 0px;
+  width: 400px;
+  height: 60px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(51, 51, 51, 0.6000000238418579);
+}
+.editing-accounts-text08 {
+  top: 14px;
+  left: 77px;
+  color: rgba(255, 255, 255, 1);
+  width: 247px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.editing-accounts-userbg1 {
+  top: 0px;
+  left: 0px;
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  border-color: transparent;
+}
+.editing-accounts-user11 {
+  top: 24px;
+  left: 17px;
+  width: 367px;
+  height: 353px;
+  position: absolute;
+  border-color: transparent;
+}
+.editing-accounts-text10 {
+  top: -68px;
+  left: 29px;
+  color: rgba(255, 255, 255, 1);
+  width: 344px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.editing-accounts-menu {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 120px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.editing-accounts-rectangle2 {
+  top: 960px;
+  left: 0px;
+  width: 1920px;
+  height: 120px;
+  position: absolute;
+}
+.editing-accounts-menu1 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 120px;
+  position: absolute;
+  border-color: transparent;
+}
+.editing-accounts-text12 {
+  top: 29px;
+  left: 140px;
+  color: rgba(51, 51, 51, 1);
+  width: 205px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.editing-accounts-text14 {
+  top: 29px;
+  left: 1751px;
+  color: rgba(51, 51, 51, 1);
+  width: 169px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.editing-accounts-hamburgermenu {
+  top: 44px;
+  left: 51px;
+  width: 50px;
+  height: 36px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.editing-accounts-line5 {
+  top: 36px;
+  left: 0px;
+  width: 50px;
+  height: 0px;
+  position: absolute;
+}
+.editing-accounts-line4 {
+  top: 16px;
+  left: 0px;
+  width: 50px;
+  height: 0px;
+  position: absolute;
+}
+.editing-accounts-line3 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 0px;
+  position: absolute;
+}
+.editing-accounts-sidescroll {
+  top: 488px;
+  left: 1754px;
+  width: 104px;
+  height: 105px;
+  position: absolute;
+}
