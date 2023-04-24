@@ -1,0 +1,425 @@
+:host { 
+  display: contents; 
+}
+.adding-new-account-pop-up-container {
+  min-height: 100vh;
+}
+.adding-new-account-pop-up-adding-new-account-pop-up {
+  width: 100%;
+  height: 508px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.adding-new-account-pop-up-regis-box {
+  top: 0px;
+  left: 0px;
+  width: 783px;
+  height: 508px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.adding-new-account-pop-up-register-box-full {
+  top: 0px;
+  left: 0px;
+  width: 783px;
+  height: 508px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 13px;
+}
+.adding-new-account-pop-up-exitbutton {
+  top: 39.1817626953125px;
+  left: 716.1831665039062px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.adding-new-account-pop-up-cancel-button {
+  top: 435px;
+  left: 179px;
+  width: 193px;
+  height: 49px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.adding-new-account-pop-up-button {
+  top: 0px;
+  left: 0px;
+  width: 193px;
+  height: 49px;
+  position: absolute;
+  border-color: transparent;
+}
+.adding-new-account-pop-up-text {
+  left: 27.502500534057617px;
+  color: rgba(240, 242, 240, 1);
+  width: 138px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.adding-new-account-pop-up-user-info {
+  top: 145px;
+  left: 44px;
+  width: 690px;
+  height: 251px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.adding-new-account-pop-up-last-name-user-input {
+  top: 102px;
+  left: 387px;
+  width: 303px;
+  height: 47px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.adding-new-account-pop-up-last-name-user-input1 {
+  top: 0px;
+  left: 0px;
+  width: 303px;
+  height: 47px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.adding-new-account-pop-up-button1 {
+  top: 0px;
+  left: 0px;
+  width: 303px;
+  height: 47px;
+  position: absolute;
+  border-color: transparent;
+}
+.adding-new-account-pop-up-text02 {
+  top: -50px;
+  color: rgba(51, 51, 51, 1);
+  width: 303px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: italic;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.adding-new-account-pop-up-first-name-user-input {
+  top: 102px;
+  left: 0px;
+  width: 303px;
+  height: 47px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.adding-new-account-pop-up-first-name-user-input1 {
+  top: 0px;
+  left: 0px;
+  width: 303px;
+  height: 47px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.adding-new-account-pop-up-button2 {
+  top: 0px;
+  left: 0px;
+  width: 303px;
+  height: 47px;
+  position: absolute;
+  border-color: transparent;
+}
+.adding-new-account-pop-up-text04 {
+  top: -50px;
+  color: rgba(51, 51, 51, 1);
+  width: 303px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: italic;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.adding-new-account-pop-up-new-password-input {
+  top: 0px;
+  left: 387px;
+  width: 303px;
+  height: 47px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.adding-new-account-pop-up-button3 {
+  top: 0px;
+  left: 0px;
+  width: 303px;
+  height: 47px;
+  position: absolute;
+  border-color: transparent;
+}
+.adding-new-account-pop-up-text06 {
+  top: -50px;
+  color: rgba(51, 51, 51, 1);
+  width: 303px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: italic;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.adding-new-account-pop-up-new-username-input {
+  top: 0px;
+  left: 0px;
+  width: 303px;
+  height: 47px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.adding-new-account-pop-up-button4 {
+  top: 0px;
+  left: 0px;
+  width: 303px;
+  height: 47px;
+  position: absolute;
+  border-color: transparent;
+}
+.adding-new-account-pop-up-text08 {
+  top: -50px;
+  color: rgba(51, 51, 51, 1);
+  width: 303px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: italic;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.adding-new-account-pop-up-email-user-input {
+  top: 204px;
+  left: 387px;
+  width: 303px;
+  height: 47px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.adding-new-account-pop-up-email-user-input1 {
+  top: 0px;
+  left: 0px;
+  width: 303px;
+  height: 47px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.adding-new-account-pop-up-button5 {
+  top: 0px;
+  left: 0px;
+  width: 303px;
+  height: 47px;
+  position: absolute;
+  border-color: transparent;
+}
+.adding-new-account-pop-up-text10 {
+  top: -50px;
+  color: rgba(51, 51, 51, 1);
+  width: 303px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: italic;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.adding-new-account-pop-up-employee-i-no-user-input {
+  top: 204px;
+  left: 0px;
+  width: 303px;
+  height: 47px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.adding-new-account-pop-up-button6 {
+  top: 0px;
+  left: 0px;
+  width: 303px;
+  height: 47px;
+  position: absolute;
+  border-color: transparent;
+}
+.adding-new-account-pop-up-text12 {
+  top: -50px;
+  color: rgba(51, 51, 51, 1);
+  width: 343px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: italic;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.adding-new-account-pop-up-finish-button {
+  top: 435px;
+  left: 412px;
+  width: 193px;
+  height: 49px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.adding-new-account-pop-up-finish-button1 {
+  top: 0px;
+  left: 0px;
+  width: 193px;
+  height: 49px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.adding-new-account-pop-up-button7 {
+  top: 0px;
+  left: 0px;
+  width: 193px;
+  height: 49px;
+  position: absolute;
+  border-color: transparent;
+}
+.adding-new-account-pop-up-text14 {
+  left: 27.502500534057617px;
+  color: rgba(240, 242, 240, 1);
+  width: 138px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.adding-new-account-pop-up-text16 {
+  top: 33px;
+  left: 29px;
+  color: rgba(51, 51, 51, 1);
+  width: 649px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

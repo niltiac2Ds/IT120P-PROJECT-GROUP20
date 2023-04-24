@@ -1,0 +1,334 @@
+:host { 
+  display: contents; 
+}
+.extendedmenuforaccounts-container {
+  min-height: 100vh;
+}
+.extendedmenuforaccounts-extendedmenuforaccounts {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.extendedmenuforaccounts-extendedmenu {
+  top: 0px;
+  left: 0px;
+  width: 448px;
+  height: 1080px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.extendedmenuforaccounts-extendedmenubar {
+  top: 0px;
+  left: 0px;
+  width: 448px;
+  height: 1080px;
+  position: absolute;
+  border-color: transparent;
+}
+.extendedmenuforaccounts-updatebutton {
+  top: 692px;
+  left: 49.35416793823242px;
+  width: 281.0500793457031px;
+  height: 70px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.extendedmenuforaccounts-updateiconsm {
+  top: 0px;
+  left: 0px;
+  width: 79px;
+  height: 70px;
+  position: absolute;
+  border-color: transparent;
+}
+.extendedmenuforaccounts-text {
+  top: 7px;
+  left: 127.59391021728516px;
+  color: rgba(51, 51, 51, 1);
+  width: 153px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.extendedmenuforaccounts-statusbutton {
+  top: 560px;
+  left: 49.35416793823242px;
+  width: 345.5198669433594px;
+  height: 70px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.extendedmenuforaccounts-text02 {
+  top: 7px;
+  left: 127.59391021728516px;
+  color: rgba(51, 51, 51, 1);
+  width: 218px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.extendedmenuforaccounts-statusiconsm {
+  top: 0px;
+  left: 0px;
+  width: 80px;
+  height: 70px;
+  position: absolute;
+  border-color: transparent;
+}
+.extendedmenuforaccounts-devicesbutton {
+  top: 428px;
+  left: 44.99998092651367px;
+  width: 285.4040832519531px;
+  height: 78px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.extendedmenuforaccounts-devicesiconsm {
+  top: 0px;
+  left: 0px;
+  width: 84px;
+  height: 78px;
+  position: absolute;
+  border-color: transparent;
+}
+.extendedmenuforaccounts-text04 {
+  top: 7px;
+  left: 131.9479217529297px;
+  color: rgba(51, 51, 51, 1);
+  width: 153px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.extendedmenuforaccounts-pagehighlight {
+  top: 291px;
+  left: 39px;
+  width: 374px;
+  height: 81px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.extendedmenuforaccounts-accountbutton {
+  top: 296px;
+  left: 52.74131774902344px;
+  width: 277.66265869140625px;
+  height: 70px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.extendedmenuforaccounts-accountsiconsm {
+  top: 0px;
+  left: 0px;
+  width: 71px;
+  height: 70px;
+  position: absolute;
+  border-color: transparent;
+}
+.extendedmenuforaccounts-text06 {
+  top: 7px;
+  left: 124.20670318603516px;
+  color: rgba(51, 51, 51, 1);
+  width: 153px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.extendedmenuforaccounts-homebutton {
+  top: 164px;
+  left: 49.35416793823242px;
+  width: 281.0500793457031px;
+  height: 70px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.extendedmenuforaccounts-homeiconsm {
+  top: 0px;
+  left: 0px;
+  width: 84px;
+  height: 70px;
+  position: absolute;
+  border-color: transparent;
+}
+.extendedmenuforaccounts-text08 {
+  top: 7px;
+  left: 127.59391021728516px;
+  color: rgba(51, 51, 51, 1);
+  width: 153px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.extendedmenuforaccounts-text10 {
+  top: 15px;
+  left: 45px;
+  color: rgba(29, 92, 69, 1);
+  width: 332px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.extendedmenuforaccounts-logout {
+  top: 990px;
+  left: 53px;
+  width: 346px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.extendedmenuforaccounts-logout-button {
+  top: 0px;
+  left: 0px;
+  width: 346px;
+  height: 60px;
+  position: absolute;
+  border-color: transparent;
+}
+.extendedmenuforaccounts-text12 {
+  left: 63.14500045776367px;
+  color: rgba(240, 242, 240, 1);
+  width: 221px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
